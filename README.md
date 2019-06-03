@@ -9,6 +9,7 @@ swift 5
 
 TODO:
 
-Finish Infinity Scroll
-Finish ViewModel UnitTest
-Adjust Webservice layer
+Finish Infinity Scroll;
+Finish ViewModel UnitTest;
+Adjust Webservice layer;
+
