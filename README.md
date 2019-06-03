@@ -1,0 +1,2 @@
+# FlickrImageGalleryApp
+mindera-ios-interview
