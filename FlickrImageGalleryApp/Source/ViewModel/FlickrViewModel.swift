@@ -77,10 +77,6 @@ extension FlickrViewModel {
         return getLargeImages.count + addLoadingCell
     }
     
-    func arraymain () -> Array<ShowInView>{
-       return getLargeImages
-    }
-    
     /// Cell type at index path
     ///
     /// - Parameter indexPath: indexPath
@@ -102,7 +98,7 @@ extension FlickrViewModel {
         }
         
         if refresh {
-            self.refresh() //ber
+            self.refresh()
         }
         
         page += 1

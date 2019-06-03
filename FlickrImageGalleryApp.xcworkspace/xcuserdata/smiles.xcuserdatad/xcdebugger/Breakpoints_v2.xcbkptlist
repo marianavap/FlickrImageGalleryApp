@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FlickrImageGalleryApp/Source/ViewModel/FlickrViewModel.swift"
-            timestampString = "581217746.981089"
+            timestampString = "581218175.588553"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "110"
-            endingLineNumber = "110"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
             landmarkName = "fetch(refresh:)"
             landmarkType = "7">
             <Locations>
