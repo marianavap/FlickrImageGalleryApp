@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlickrImageGalleryApp/Source/ViewModel/FlickrViewModel.swift"
+            timestampString = "581217746.981089"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "fetch(refresh:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Gallery.FlickrViewModel.fetch(refresh: Swift.Bool) -&gt; ()"
+                  moduleName = "Gallery"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smiles/Documents/TestsApps/FlickrImageGalleryApp/FlickrImageGalleryApp/Source/ViewModel/FlickrViewModel.swift"
+                  timestampString = "581214933.487276"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "689">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (() throws -&gt; Gallery.PhotoList) -&gt; () in Gallery.FlickrViewModel.fetch(refresh: Swift.Bool) -&gt; ()"
+                  moduleName = "Gallery"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smiles/Documents/TestsApps/FlickrImageGalleryApp/FlickrImageGalleryApp/Source/ViewModel/FlickrViewModel.swift"
+                  timestampString = "581214933.489761"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
