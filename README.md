@@ -1,6 +1,4 @@
 # FlickrImageGalleryApp
-mindera-ios-interview
-
 
 About the Project 
 
